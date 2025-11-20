@@ -1,2 +1,2 @@
 # GaroaBadgeLife
-Documentação e código para implementar Game of Life no crachá do Garoa
+Documentação e código para implementar Game of Life em MicroPython no crachá do Garoa
